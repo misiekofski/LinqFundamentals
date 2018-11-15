@@ -19,6 +19,14 @@ namespace LinqFundamentals
 
             //Total price of all rwd cars
 
+
+            //Any of cars is older than
+
+
+            //Order desc by last numeric field
+
+
+            //Order desc by first numeric field
         }
     }
 }
